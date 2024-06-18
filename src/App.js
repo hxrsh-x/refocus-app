@@ -7,8 +7,8 @@ import { useState } from 'react';
 function App() {
 
   const [showSettings, setshowSettings] = useState(false);
-  const [workTime, setWorkTime] = useState(45);
-  const [breakTime, setBreakTime] = useState(15);
+  const [workTime, setWorkTime] = useState(1);
+  const [breakTime, setBreakTime] = useState(1);
 
   return (
     <main>
