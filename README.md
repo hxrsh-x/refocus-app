@@ -15,7 +15,11 @@ ReactJS
 ### Contributions
 
 Feel free to contribute to this project by:
+
 Forking the repository.
+
 Adding new features.
+
 Fixing bugs.
+
 Submitting a pull request.
